@@ -10,7 +10,7 @@
 - And if the game ends in a draw, it gets 0. 
 - Also, you want the agent to win in as few moves as possible, so for each move, it gets a -1 point.
 
-### Rules of the Game:
+## Rules of the Game:
 1. The game will be played on a 3x3 grid (9 cells) using numbers from 1 to 9. Each number can be used exactly once in the entire grid.
 2. There are two players: one is the Reinforcement Learning (RL) agent and other is the environment.
 3. The RL agent is given odd numbers {1, 3, 5, 7, 9} and the environment is given the even numbers {2, 4, 6, 8}
