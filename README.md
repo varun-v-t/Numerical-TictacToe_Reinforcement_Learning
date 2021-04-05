@@ -1,4 +1,4 @@
-# Numerical TictacToe Using Reinforcement Learning
+# Numerical Tic Tac Toe Using Reinforcement Learning(Qlearning)
 
 ## Objective
 - an RL agent that learns to play Numerical Tic-Tac-Toe with odd numbers using Q-Learning.
